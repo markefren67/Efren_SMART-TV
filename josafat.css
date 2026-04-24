@@ -1,0 +1,66 @@
+body{
+    background-color: aqua;
+}
+h1{
+    background-color: gray;
+    margin: 15px;
+    padding: 10px;
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+* {
+    margin: 20px;
+    padding: 0;
+    box-sizing: border-box;
+}
+.c{
+    background-color: coral;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 5px;
+}
+.o{
+    background-color: pink;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 5px;
+}
+.y{
+    background-color: orange;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 5px;
+}
+.t{
+    background-color: blueviolet;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 5px;
+}
+.h{
+    background-color: yellow;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 5px;
+}
+.z{
+    background-color: lightgreen;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 5px;
+}
+.q{
+    background-color: yellowgreen;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 5px;
+}
